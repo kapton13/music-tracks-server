@@ -1,0 +1,13 @@
+{
+  "title": "Rock",
+  "artist": "Rock",
+  "album": "Rock",
+  "genres": [
+    "Rock"
+  ],
+  "coverImage": "",
+  "slug": "rock",
+  "id": "1745152047815",
+  "createdAt": "2025-04-20T12:27:27.815Z",
+  "updatedAt": "2025-04-20T12:27:27.815Z"
+}

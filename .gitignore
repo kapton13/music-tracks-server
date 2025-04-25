@@ -1,0 +1,17 @@
+# Відслідковувати не будемо папку з модулями
+node_modules/
+
+dist/
+build/
+
+# Конфігурація середовища
+.env
+
+# Логи
+npm-debug.log*
+yarn-debug.log*
+pnpm-debug.log*
+
+# Операційні файли
+.DS_Store
+Thumbs.db

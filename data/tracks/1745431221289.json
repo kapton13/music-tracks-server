@@ -1,0 +1,14 @@
+{
+  "title": "1",
+  "artist": "1",
+  "album": "1",
+  "genres": [
+    "Electronic"
+  ],
+  "coverImage": "",
+  "slug": "1",
+  "id": "1745431221289",
+  "createdAt": "2025-04-23T18:00:21.289Z",
+  "updatedAt": "2025-04-23T18:00:21.323Z",
+  "audioFile": "1745431221289.mp3"
+}

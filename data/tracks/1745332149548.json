@@ -1,0 +1,15 @@
+{
+  "title": "Test",
+  "artist": "Test test https://i.scdn.co/image/ab67616d0000b2731055dacbcac50ce282582c15https://i.scdn.co/image/ab67616d0000b2731055dacbcac50ce282582c15 mhttps://i.scdn.co/image/ab67616d0000b2731055dacbcac50ce282582c15 https://i.scdn.co/image/ab67616d0000b2731055dacbcac50ce282582c15 https://i.scdn.co/image/ab67616d0000b2731055dacbcac50ce282582c15",
+  "album": "la la la",
+  "genres": [
+    "Indie",
+    "Pop"
+  ],
+  "coverImage": "https://i.scdn.co/image/ab67616d0000b2731055dacbcac50ce282582c15",
+  "slug": "test",
+  "id": "1745332149548",
+  "createdAt": "2025-04-22T14:29:09.548Z",
+  "updatedAt": "2025-04-22T14:36:07.628Z",
+  "audioFile": "1745332149548.mp3"
+}
